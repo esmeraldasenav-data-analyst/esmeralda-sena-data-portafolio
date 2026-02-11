@@ -110,14 +110,14 @@ Analyze behavioral differences between casual riders and annual members to suppo
 
 ## Professional Goal
 
-To integrate leadership experience and advanced data analytics capabilities into strategic Data Analytics and Business Intelligence roles that drive measurable organizational impact.
+To combine leadership experience and analytical expertise in data-driven roles that generate measurable operational and strategic impact.
 
 ---
 
 ## Contact
 
 - LinkedIn: [Esmeralda Sena](https://www.linkedin.com/in/esmeralda-sena-8b189729b)
-- email: esmeraldasenav@gmail.com
+- Email: esmeraldasenav@gmail.com
 - Location: Dominican Republic | Open to remote opportunities
 
 
