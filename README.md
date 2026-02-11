@@ -1,46 +1,94 @@
 # Esmeralda Sena  
-### Data Analyst | Industrial Engineer | M.Sc. in Business Intelligence & Big Data (In Progress)
+### Industrial Engineer | Data Analyst | M.Sc. in Business Intelligence & Big Data (In Progress)
 
 ---
 
-## About Me
+## Professional Summary
 
-I am an Industrial Engineer currently pursuing a Master’s degree in Business Intelligence and Big Data. 
-My professional background combines operational strategy, analytical thinking, and data-driven decision-making.
+Industrial Engineer with over 8 years of professional experience in operations management, team leadership, and performance optimization.
 
-I am passionate about transforming raw data into actionable business insights that drive measurable impact.
+Currently leading a multicultural team of 60+ agents in a New York-based medical transportation company, overseeing live monitoring operations and real-time KPI tracking, including on-time performance, team velocity (trips per hour), passenger and driver no-show rates, and service efficiency metrics.
+
+Recently completed the Google Data Analytics Professional Certificate and currently pursuing a Master’s degree in Business Intelligence and Big Data to deepen my analytical capabilities.
+
+Passionate about leveraging data to optimize operational performance, improve decision-making, and drive measurable business outcomes.
+
+---
+
+## Core Competencies
+
+### Data & Analytics
+- KPI Analysis & Performance Monitoring
+- Operational Data Interpretation
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- SQL-Based Data Querying
+
+### Operations & Strategy
+- Real-Time Performance Management
+- On-Time Performance Optimization
+- Service Efficiency Analysis
+- Process Improvement & Workflow Optimization
+- Decision Support Through Data
+
+### Leadership & Management
+- Cross-Cultural Team Leadership (60+ agents)
+- Performance Coaching & Monitoring
+- Metrics-Driven Team Management
+- Strategic Operational Oversight
 
 ---
 
 ## Technical Skills
 
-### Programming & Querying
+### Data Querying & Programming
 - SQL (Google BigQuery)
+- R (data manipulation and exploratory analysis)
+- Data cleaning and transformation techniques
 
-### Data Analysis
-- Data cleaning and transformation
-- Exploratory Data Analysis (EDA)
-- Behavioral segmentation
-- Business insight development
+### Data Visualization & Reporting
+- Tableau (dashboard development and KPI visualization)
+- Google Sheets (analytical reporting and business insights)
+- Executive-ready data storytelling
 
-### Data Visualization
-- Google Sheets
-- Data storytelling and executive reporting
+### Analytical Techniques
+- KPI performance analysis
+- Trend identification and behavioral segmentation
+- Operational efficiency analysis
+- Data-driven decision support
+
+### Tools & Platforms
+- Google BigQuery
+- Tableau
+- GitHub
 
 ---
 
-## Projects
+## Certifications & Professional Development
 
-### 1. Cyclistic Bike-Share Case Study
+- **Google Data Analytics Professional Certificate** – Google 
+- **People & Soft Skills Specialization** – Coursera
+- **Marketing Research** – Coursera
+- **Project Management** – Coursera
 
-**Business Problem:**  
-Understanding behavioral differences between casual riders and annual members to support membership growth strategy.
+### Currently Pursuing
+- **M.Sc. in Business Intelligence and Big Data** (In Progress) EUDE
+
+
+---
+
+## Featured Project
+
+### Cyclistic Bike-Share Case Study
+
+**Objective:**  
+Analyze behavioral differences between casual riders and annual members to support data-driven membership growth strategies.
 
 **Key Contributions:**
-- Cleaned and transformed 1.3M+ trip records using SQL
-- Identified commuting vs recreational behavioral patterns
-- Developed strategic marketing recommendations based on data insights
-- Created executive-ready visualizations
+- Processed and cleaned 1.3M+ records using SQL
+- Identified commuting vs recreational usage patterns
+- Developed business-focused marketing recommendations
+- Created executive-level visualizations
 
 **Tools Used:** SQL (BigQuery), Google Sheets, GitHub  
 
@@ -48,15 +96,15 @@ Understanding behavioral differences between casual riders and annual members to
 
 ---
 
-## Currently Expanding
+## Currently Developing
 
-- Advancing Business Intelligence and Big Data expertise
-- Building dashboard-driven analytics projects
-- Strengthening data storytelling and visualization skills
+- Advanced Business Intelligence dashboards (Tableau)
+- Big Data foundations
+- Predictive and analytical modeling techniques
 
 ---
 
-## Contact
+## Professional Goal
 
-(LinkedIn profile link coming soon)
+To integrate leadership experience and advanced data analytics capabilities into strategic Business Intelligence roles that drive measurable organizational impact.
 
