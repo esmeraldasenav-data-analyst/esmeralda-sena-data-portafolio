@@ -44,7 +44,7 @@ Understanding behavioral differences between casual riders and annual members to
 
 **Tools Used:** SQL (BigQuery), Google Sheets, GitHub  
 
-[View Full Project](PASTE_YOUR_PROJECT_LINK_HERE)
+[View Full Project](https://github.com/esmeraldasenav-data-analyst/google-data-analytics-capstone-project-case-study)
 
 ---
 
