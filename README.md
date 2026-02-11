@@ -19,7 +19,8 @@ Passionate about leveraging data to optimize operational performance, improve de
 
 - KPI Analysis & Performance Monitoring  
 - Operational Data Interpretation  
-- Process Improvement & Workflow Optimization  
+- Process Improvement & Workflow Optimization
+- Business Process Modeling (BPMN)  
 - Data-Driven Decision Support  
 - Real-Time Performance Management  
 - Cross-Cultural Team Leadership (60+ agents)  
@@ -52,8 +53,14 @@ Passionate about leveraging data to optimize operational performance, improve de
 - **Marketing Research** – Coursera  
 - **Project Management** – Coursera  
 
-### Currently Pursuing
-- **M.Sc. in Business Intelligence and Big Data** (In Progress) – EUDE  
+## Education
+
+**Bachelor’s Degree in Industrial Engineering**  
+(Universidad Autonoma de Santo Domingo)  
+(2024)
+
+### Graduate Studies
+**M.Sc. in Business Intelligence and Big Data** – EUDE (In Progress)
 
 ---
 
