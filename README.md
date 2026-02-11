@@ -56,8 +56,8 @@ Passionate about leveraging data to optimize operational performance, improve de
 ## Education
 
 **Bachelor’s Degree in Industrial Engineering**  
-(Universidad Autonoma de Santo Domingo)  
-(2024)
+Universidad Autónoma de Santo Domingo (UASD)  
+2024
 
 ### Graduate Studies
 **M.Sc. in Business Intelligence and Big Data** – EUDE (In Progress)
@@ -121,9 +121,5 @@ To integrate leadership experience and advanced data analytics capabilities into
 - Location: Dominican Republic | Open to remote opportunities
 
 
----
 
-## Professional Goal
-
-To integrate leadership experience and advanced data analytics capabilities into strategic Business Intelligence roles that drive measurable organizational impact.
 
