@@ -17,63 +17,60 @@ Passionate about leveraging data to optimize operational performance, improve de
 
 ## Core Competencies
 
-### Data & Analytics
-- KPI Analysis & Performance Monitoring
-- Operational Data Interpretation
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Transformation
-- SQL-Based Data Querying
-
-### Operations & Strategy
-- Real-Time Performance Management
-- On-Time Performance Optimization
-- Service Efficiency Analysis
-- Process Improvement & Workflow Optimization
-- Decision Support Through Data
-
-### Leadership & Management
-- Cross-Cultural Team Leadership (60+ agents)
-- Performance Coaching & Monitoring
-- Metrics-Driven Team Management
-- Strategic Operational Oversight
+- KPI Analysis & Performance Monitoring  
+- Operational Data Interpretation  
+- Process Improvement & Workflow Optimization  
+- Data-Driven Decision Support  
+- Real-Time Performance Management  
+- Cross-Cultural Team Leadership (60+ agents)  
+- Metrics-Driven Performance Coaching  
 
 ---
 
 ## Technical Skills
 
-### Data Querying & Programming
+### Programming & Querying
 - SQL (Google BigQuery)
 - R (data manipulation and exploratory analysis)
-- Data cleaning and transformation techniques
 
 ### Data Visualization & Reporting
-- Tableau (dashboard development and KPI visualization)
-- Google Sheets (analytical reporting and business insights)
-- Executive-ready data storytelling
-
-### Analytical Techniques
-- KPI performance analysis
-- Trend identification and behavioral segmentation
-- Operational efficiency analysis
-- Data-driven decision support
+- Tableau (dashboard development)
+- Google Sheets (analytical reporting)
+- Executive-level data storytelling
 
 ### Tools & Platforms
-- Google BigQuery
-- Tableau
-- GitHub
+- Google BigQuery  
+- Tableau  
+- GitHub  
 
 ---
 
 ## Certifications & Professional Development
 
-- **Google Data Analytics Professional Certificate** – Google 
-- **People & Soft Skills Specialization** – Coursera
-- **Marketing Research** – Coursera
-- **Project Management** – Coursera
+- **Google Data Analytics Professional Certificate** – Google  
+- **People & Soft Skills Specialization** – Coursera  
+- **Marketing Research** – Coursera  
+- **Project Management** – Coursera  
 
 ### Currently Pursuing
-- **M.Sc. in Business Intelligence and Big Data** (In Progress) EUDE
+- **M.Sc. in Business Intelligence and Big Data** (In Progress) – EUDE  
 
+---
+
+## Professional Experience
+
+### Head of Live Monitoring Department  
+Medical Transportation Company (New York-Based Operations)  
+2018 – Present
+
+- Lead and supervise a multicultural team of 60+ agents responsible for real-time operational monitoring.
+- Analyze and track KPIs including on-time performance, trips per hour, passenger and driver no-show rates, and service efficiency metrics.
+- Translate operational data into actionable insights to improve workflow efficiency and service quality.
+- Implement metrics-driven performance coaching strategies to enhance team productivity.
+- Support strategic decision-making through structured performance reporting.
+
+### Previous Experience
+Experience in operations coordination and performance management contributing to service quality improvement and process optimization.
 
 ---
 
@@ -98,9 +95,24 @@ Analyze behavioral differences between casual riders and annual members to suppo
 
 ## Currently Developing
 
-- Advanced Business Intelligence dashboards (Tableau)
-- Big Data foundations
-- Predictive and analytical modeling techniques
+- Advanced Business Intelligence dashboards (Tableau)  
+- Big Data foundations  
+- Predictive and analytical modeling techniques  
+
+---
+
+## Professional Goal
+
+To integrate leadership experience and advanced data analytics capabilities into strategic Data Analytics and Business Intelligence roles that drive measurable organizational impact.
+
+---
+
+## Contact
+
+- LinkedIn: [Esmeralda Sena](https://www.linkedin.com/in/esmeralda-sena-8b189729b)
+- email: esmeraldasenav@gmail.com
+- Location: Dominican Republic | Open to remote opportunities
+
 
 ---
 
